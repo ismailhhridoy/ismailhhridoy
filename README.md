@@ -1,13 +1,9 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+[Ismail H Hridoy]+👋;WordPress+Developer+%26+UX+Designer;300%2B+Websites+%7C+15%2B+Countries+🌍;Building+Digital+Experiences+that+Grow+🚀" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ismail+H+Hridoy+%F0%9F%91%8B;WordPress+Developer+%26+UX+Designer;300%2B+Websites+%7C+15%2B+Countries+%F0%9F%8C%8D;Building+Digital+Experiences+that+Grow+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ismailhhridoy&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -31,7 +27,6 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 
 ### 🛠️ My Tech Toolbox
 
-<!-- Tech Badges -->
 **CMS & Development**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -74,11 +69,15 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailhhridoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&icon_color=F7971E&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=ismailhhridoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&icon_color=F7971E&text_color=ffffff&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhhridoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&text_color=ffffff)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ismailhhridoy&theme=radical&hide_border=true&background=0D1117&ring=F7971E&fire=F7971E&currStreakLabel=F7971E)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhhridoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&text_color=ffffff&langs_count=6" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ismailhhridoy&theme=radical&hide_border=true&background=0D1117&ring=F7971E&fire=F7971E&currStreakLabel=F7971E" alt="GitHub Streak" />
 
 </div>
 
@@ -100,10 +99,9 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailhhridoy/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ismailhhridoy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/theismailhhridoy/)
 
 </div>
 
@@ -113,6 +111,6 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 
 *✨ Currently open to new projects and white-label collaborations ✨*
 
-**💬 DM me on LinkedIn or shoot an email — let's build something great together!**
+**💬 Connect on LinkedIn or Upwork — let's build something great together!**
 
 </div>
