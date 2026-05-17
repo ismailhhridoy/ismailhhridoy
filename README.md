@@ -17,7 +17,7 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name       : [Your Name]
+name       : Ismail H Hridoy
 location   : 📍 Dhaka, Bangladesh 🇧🇩
 role       : WordPress Developer · UX-Focused Designer · Frontend Dev
 currently  : 🎓 Pursuing B.Sc. in Computer Science
