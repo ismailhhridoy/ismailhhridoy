@@ -74,11 +74,11 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&icon_color=F7971E&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailhhridoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&icon_color=F7971E&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhhridoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=F7971E&fire=F7971E&currStreakLabel=F7971E)
+![GitHub Streak](https://streak-stats.demolab.com?user=ismailhhridoy&theme=radical&hide_border=true&background=0D1117&ring=F7971E&fire=F7971E&currStreakLabel=F7971E)
 
 </div>
 
