@@ -6,6 +6,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ismailhhridoy&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" alt="coding cat" />
+
 </div>
 
 ---
@@ -31,6 +33,7 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
 **Frontend**
 
@@ -38,20 +41,21 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-
 **Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+
 **DevOps & Infrastructure**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -68,9 +72,28 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 
 ---
 
+### 😸 Fun Facts
+
+- ☕ Coffee-powered coder
+- 🌙 Late-night bug fixer
+- 📚 CS student by day, web builder by night
+- 🌍 Built websites across 6 continents
+- 🎯 Pixel-perfect perfectionist
+- 🐱 Certified cat person
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ismailhhridoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&icon_color=F7971E&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhhridoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&text_color=ffffff&langs_count=6" alt="Top Languages" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=ismailhhridoy&theme=radical&hide_border=true&background=0D1117&ring=F7971E&fire=F7971E&currStreakLabel=F7971E" alt="GitHub Streak" />
 
@@ -104,5 +127,11 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 ---
 
 <div align="center">
+
+*✨ Currently open to new projects and white-label collaborations ✨*
+
+**💬 Connect on LinkedIn or Upwork — let's build something great together!**
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" alt="happy cat" />
 
 </div>
