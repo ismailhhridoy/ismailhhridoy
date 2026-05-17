@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ismailhhridoy&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="coding cat" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="coding cat" />
 
 </div>
 
@@ -123,8 +123,6 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 
 *✨ Currently open to new projects and white-label collaborations ✨*
 
-**💬 Connect on LinkedIn or Upwork — let's build something great together!**
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" alt="happy cat" />
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" alt="happy cat" />
 
 </div>
