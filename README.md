@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ismailhhridoy&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" alt="coding cat" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="coding cat" />
 
 </div>
 
@@ -87,13 +87,6 @@ fun_fact   : I've built 300+ websites for clients across 15+ countries 🌍
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ismailhhridoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&icon_color=F7971E&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhhridoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&text_color=ffffff&langs_count=6" alt="Top Languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=ismailhhridoy&theme=radical&hide_border=true&background=0D1117&ring=F7971E&fire=F7971E&currStreakLabel=F7971E" alt="GitHub Streak" />
 
