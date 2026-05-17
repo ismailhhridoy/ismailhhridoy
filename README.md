@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ismailhhridoy&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
