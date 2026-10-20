@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,06B6D4&height=120&section=header&text=Ismail%20H%20Hridoy&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" alt="header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Website+Developer+%7C+PHP+%7C+JavaScript;WordPress+Expert+%E2%80%94+300%2B+Sites+Built;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+to+Freelance+%26+White-Label+Work" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=%3E+whoami;Website+Developer+%7C+PHP+%7C+JavaScript;WordPress+Expert+%E2%80%94+300%2B+Sites+Built;AI%2FML+Enthusiast+%F0%9F%A4%96+%E2%80%94+Building+Smarter+Apps;Open+to+Freelance+%26+White-Label+Work" alt="Typing SVG" />
-
-<br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ismailhhridoy&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 ![Websites](https://img.shields.io/badge/Websites_Built-300%2B-06B6D4?style=for-the-badge)
@@ -14,24 +12,17 @@
 
 ---
 
-### 🧑‍💻 `$ cat about.yaml`
+## About
 
-```yaml
-name       : Ismail H Hridoy
-location   : 📍 Dhaka, Bangladesh 🇧🇩
-role       : Website Developer · PHP · JavaScript · WordPress
-learning   : 🤖 AI/ML — exploring where web meets intelligence
-currently  : 🎓 Pursuing B.Sc. in Computer Science
-speciality : Custom themes, plugins & PHP web apps
-available  : true  # open for freelance & white-label agency work
-delivered  : 300+ websites across 15+ countries 🌍
-```
+**Ismail H Hridoy** — Website Developer based in Dhaka, Bangladesh 🇧🇩
 
-> 💬 *"I build fast, secure, scalable web solutions with clean code — and I'm teaching them to think."*
+I build fast, secure, scalable web solutions with clean code. 300+ websites delivered across 15+ countries. Currently pursuing B.Sc. in Computer Science and exploring AI/ML to build smarter web applications.
+
+Open for freelance projects and white-label agency work.
 
 ---
 
-### 🛠️ `$ ls tech-stack/`
+## Tech Stack
 
 **Core**
 
@@ -42,14 +33,14 @@ delivered  : 300+ websites across 15+ countries 🌍
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-**WordPress Ecosystem**
+**WordPress**
 
 ![WordPress](https://img.shields.io/badge/WordPress-8B5CF6?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-6366F1?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-06B6D4?style=for-the-badge&logo=elementor&logoColor=white)
 ![ACF](https://img.shields.io/badge/ACF-8B5CF6?style=for-the-badge&logo=wordpress&logoColor=white)
 
-**AI / ML — Learning 🤖**
+**AI / ML — Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -64,21 +55,21 @@ delivered  : 300+ websites across 15+ countries 🌍
 
 ---
 
-### 🚀 `$ ./services --list`
+## Services
 
 | Service | Description |
 |---|---|
-| 🔧 **Custom PHP Development** | Bespoke web apps, REST APIs, custom WordPress plugins |
-| 🌐 **WordPress Development** | Custom themes from scratch, child themes, full-site editing |
-| 🛒 **WooCommerce** | Full e-commerce stores with custom checkout & payment flows |
-| ⚡ **JS / jQuery** | Dynamic UI, AJAX interactions, custom front-end scripts |
+| 🔧 **Custom PHP Development** | Web apps, REST APIs, custom WordPress plugins |
+| 🌐 **WordPress Development** | Custom themes from scratch, child themes, FSE |
+| 🛒 **WooCommerce** | Full stores with custom checkout & payment flows |
+| ⚡ **JavaScript / jQuery** | Dynamic UI, AJAX, custom front-end scripts |
 | 🤖 **AI Integration** | LLM APIs, AI-powered features in web apps |
 | 🏢 **White-Label Agency** | Backend dev support for UK & USA agencies |
 | 🔐 **Security & Performance** | Hardening, Core Web Vitals, CDN, caching, SSL |
 
 ---
 
-### 📊 `$ git stats --user ismailhhridoy`
+## GitHub Stats
 
 <div align="center">
 
@@ -96,7 +87,7 @@ delivered  : 300+ websites across 15+ countries 🌍
 
 ---
 
-### 📈 `$ cat metrics.json`
+## By the Numbers
 
 <div align="center">
 
@@ -108,7 +99,7 @@ delivered  : 300+ websites across 15+ countries 🌍
 
 ---
 
-### 📡 `$ ./connect --all`
+## Connect
 
 <div align="center">
 
@@ -119,16 +110,8 @@ delivered  : 300+ websites across 15+ countries 🌍
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-```bash
-# PHP · JavaScript · WordPress · AI/ML
-# building the web of today, learning the intelligence of tomorrow
-# open to freelance & white-label collaborations_
-```
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,06B6D4&height=80&section=footer" width="100%" alt="footer" />
-
 </div>
