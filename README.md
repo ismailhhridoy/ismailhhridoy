@@ -4,7 +4,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ismailhhridoy&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 ![Websites](https://img.shields.io/badge/Websites_Built-300%2B-06B6D4?style=for-the-badge)
 ![Countries](https://img.shields.io/badge/Countries_Served-15%2B-8B5CF6?style=for-the-badge)
 
