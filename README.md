@@ -1,13 +1,8 @@
 <div align="center">
 
-<!-- Accent bar via capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,06B6D4&height=120&section=header&text=Ismail%20H%20Hridoy&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" alt="header" />
 
-<!-- Cat GIF -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" alt="coding cat" />
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=%3E+whoami;WordPress+Developer+%26+UX+Designer;300%2B+Websites+%7C+15%2B+Countries+%F0%9F%8C%8D;Building+Digital+Experiences+that+Grow+%F0%9F%9A%80;Open+to+Freelance+%26+White-Label+Work+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=%3E+whoami;Website+Developer+%7C+PHP+%7C+JavaScript;WordPress+Expert+%E2%80%94+300%2B+Sites+Built;AI%2FML+Enthusiast+%F0%9F%A4%96+%E2%80%94+Building+Smarter+Apps;Open+to+Freelance+%26+White-Label+Work" alt="Typing SVG" />
 
 <br/>
 
@@ -24,45 +19,48 @@
 ```yaml
 name       : Ismail H Hridoy
 location   : 📍 Dhaka, Bangladesh 🇧🇩
-role       : WordPress Developer · UX-Focused Designer · Frontend Dev
+role       : Website Developer · PHP · JavaScript · WordPress
+learning   : 🤖 AI/ML — exploring where web meets intelligence
 currently  : 🎓 Pursuing B.Sc. in Computer Science
+speciality : Custom themes, plugins & PHP web apps
 available  : true  # open for freelance & white-label agency work
-fun_fact   : 300+ websites delivered across 15+ countries 🌍
+delivered  : 300+ websites across 15+ countries 🌍
 ```
 
-> 💬 *"Great websites communicate clearly, solve problems, create trust, and support business growth."*
+> 💬 *"I build fast, secure, scalable web solutions with clean code — and I'm teaching them to think."*
 
 ---
 
 ### 🛠️ `$ ls tech-stack/`
 
-**CMS & Development**
+**Core**
 
-![WordPress](https://img.shields.io/badge/WordPress-6366F1?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-8B5CF6?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-06B6D4?style=for-the-badge&logo=elementor&logoColor=white)
-
-**Frontend**
-
+![PHP](https://img.shields.io/badge/PHP-6366F1?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-06B6D4?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-**Backend**
+**WordPress Ecosystem**
 
-![PHP](https://img.shields.io/badge/PHP-8B5CF6?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-06B6D4?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-8B5CF6?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-6366F1?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-06B6D4?style=for-the-badge&logo=elementor&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF-8B5CF6?style=for-the-badge&logo=wordpress&logoColor=white)
 
-**Design**
+**AI / ML — Learning 🤖**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**DevOps & Infrastructure**
+**Infrastructure**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
 ---
 
@@ -70,12 +68,13 @@ fun_fact   : 300+ websites delivered across 15+ countries 🌍
 
 | Service | Description |
 |---|---|
-| 🌐 **WordPress Development** | Custom themes, plugins, dynamic CMS solutions |
-| 🛒 **WooCommerce** | Fully-featured online stores built for conversion |
-| 🎨 **UX Design** | User-focused interfaces that convert visitors to customers |
-| ⚡ **Performance Optimization** | Speed audits, Core Web Vitals, caching, CDN setup |
-| 🏢 **White-Label Agency Support** | Backend dev support for UK & USA marketing agencies |
-| 🔐 **Website Security** | Malware removal, hardening, SSL, firewall setup |
+| 🔧 **Custom PHP Development** | Bespoke web apps, REST APIs, custom WordPress plugins |
+| 🌐 **WordPress Development** | Custom themes from scratch, child themes, full-site editing |
+| 🛒 **WooCommerce** | Full e-commerce stores with custom checkout & payment flows |
+| ⚡ **JS / jQuery** | Dynamic UI, AJAX interactions, custom front-end scripts |
+| 🤖 **AI Integration** | LLM APIs, AI-powered features in web apps |
+| 🏢 **White-Label Agency** | Backend dev support for UK & USA agencies |
+| 🔐 **Security & Performance** | Hardening, Core Web Vitals, CDN, caching, SSL |
 
 ---
 
@@ -109,20 +108,6 @@ fun_fact   : 300+ websites delivered across 15+ countries 🌍
 
 ---
 
-### 😸 `$ cat fun-facts.txt`
-
-```bash
-$ echo $FUN_FACTS
-☕ Coffee-powered coder
-🌙 Late-night bug fixer
-📚 CS student by day, web builder by night
-🌍 Built websites across 6 continents
-🎯 Pixel-perfect perfectionist
-🐱 Certified cat person
-```
-
----
-
 ### 📡 `$ ./connect --all`
 
 <div align="center">
@@ -139,11 +124,10 @@ $ echo $FUN_FACTS
 <div align="center">
 
 ```bash
-# open to freelance & white-label collaborations
-# let's build something great together_
+# PHP · JavaScript · WordPress · AI/ML
+# building the web of today, learning the intelligence of tomorrow
+# open to freelance & white-label collaborations_
 ```
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="60" alt="happy cat" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,06B6D4&height=80&section=footer" width="100%" alt="footer" />
 
